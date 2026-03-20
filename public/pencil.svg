@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="500" height="500" viewBox="0 0 500 500" xml:space="preserve">
+<!-- Created with SVG Stack Editor - https://svgstack.com -->
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(2.0 0 0 2.0 340 320)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 -43.26 -36)" id="path_0"  >
+<path style="stroke: rgb(255, 255, 255); stroke-width: 16; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-148.74, -156)" d="M 88 248.688 L 40 264.688 L 56 216.688 L 220.8 52 C 223.8 49.0005 227.869 47.3154 232.112 47.3154 C 236.355 47.3154 240.424 49.0005 243.424 52 L 252.8 61.376 C 255.8 64.3765 257.485 68.4454 257.485 72.688 C 257.485 76.9306 255.8 80.9996 252.8 84 L 88 248.688 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -119.94 40.69)" id="path_1"  >
+<path style="stroke: rgb(255, 255, 255); stroke-width: 16; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-72.06, -232.69)" d="M 56.064 216.688 L 88.064 248.688" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0.06 -79.31)" id="path_5"  >
+<path style="stroke: rgb(255, 255, 255); stroke-width: 16; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-192.06, -112.69)" d="M 176.064 96.688 L 208.064 128.688" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -21.94 -116)" id="path_6"  >
+<path style="stroke: rgb(255, 255, 255); stroke-width: 16; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-170.06, -76)" d="M 136 96.688 L 172.8 60 C 175.8 57.0005 179.869 55.3154 184.112 55.3154 C 188.355 55.3154 192.424 57.0005 195.424 60 L 204.112 68.688" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
